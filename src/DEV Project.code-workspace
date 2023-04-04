@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../DEV Project"
+		},
+		{
+			"path": "../../to-do-list"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DEV Project"
+	}
+}
